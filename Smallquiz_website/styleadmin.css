@@ -1,0 +1,72 @@
+#top{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    background-color:#002147;
+    color:white;
+    font-size:0.5cm;
+    font-weight:bold;
+
+}
+
+#logout{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:10px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background-color:white;
+    color:#002147;
+    font-size:0.5cm;
+    font-weight:bold;
+    text-align:center;
+    margin-left:1200px;
+}
+#name{
+padding:10px;
+margin-left:400px;
+margin-right:400px;
+margin-top:10px;
+border:3px solid #002147;
+
+}
+
+#welcome{
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    color:#002147;
+    padding:10px;
+    margin-top:60px;
+}
+p{
+    color:#002147;
+    font-size:35px;
+    font-weight:bold;
+
+
+}
+#user{
+      margin-left:180px;
+      padding-right:30px;
+      padding-left:30px;
+      padding:15px;
+      text-align:center;
+      font-size:25px;
+      font-weight:bold;
+      color:white;
+      background-color:#002147;
+}
+#quiz{
+    margin-left:180px;
+    padding-right:30px;
+    padding-left:30px;
+    padding:15px;
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+    color:white;
+    background-color:#002147;
+}

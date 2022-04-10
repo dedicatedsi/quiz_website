@@ -1,0 +1,85 @@
+body{
+    background-image: url('background8.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#top{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    background-color:#002147;
+    color:white;
+    font-size:0.5cm;
+    font-weight:bold;
+
+}
+#mail{
+    color:white;
+    font-size:0.5cm;
+    font-weight:bold;
+
+}
+#user{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:850px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+#logout{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:10px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background-color:white;
+    color:#002147;
+    font-size:0.5cm;
+    font-weight:bold;
+    text-align:center;
+}
+#welcome{
+    color:white;
+    font-size:1cm;
+    font-weight:bold;
+    padding:5px;
+    text-align:center;
+    margin-top:10px;
+}
+
+
+#quiz{
+    padding:20px;
+    margin-left:300px;
+    margin-right:300px;
+    text-align:center;
+    border:5px white solid;
+    
+}
+p{
+    text-align:center;
+}
+
+button{
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    font-size:1cm;
+    font-weight:bold;
+    color:white;
+    background-color:#008E97;
+}
+#c{
+    padding-left:65px;
+    padding-right:65px;
+}

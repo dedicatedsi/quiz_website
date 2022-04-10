@@ -1,0 +1,43 @@
+body{
+    background-color :#c8d8e4;
+
+}
+header{
+    background-color:#2b6777;
+    color : white;
+    border-style:dotted;
+    border-radius:5px;
+    padding:50px;
+    font-size:2cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-decoration:double;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+
+}
+
+section{
+    padding-left:100px;
+    padding-right:100px;
+    font-size :1cm ;
+    font-weight : 400;
+    text-align:centre;
+    margin : 30px;
+}
+p{
+    color:white;
+    background-color:#52ab98;
+    text-align:center;
+    text-decoration-line: underline;
+    text-decoration-color: #2b6777;
+    padding:20px;
+    margin-left:300px;
+    margin-right:300px;
+
+}
+#p{
+    margin-top:20px;
+}
